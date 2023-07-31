@@ -158,3 +158,70 @@ ll
 cd hello-world
 mvn clean package
 ll
+ git remote -v
+git config credential.helpe
+ll
+cd /usr/local
+ll
+cd 
+ll
+cd hello-world
+ll
+cd ../
+cd  trainingwale
+ll
+mvn clean package
+cd ..
+ll
+cd hello-world
+mvn clean package
+cd  hello-world
+ll
+mvn sonar:sonar   -Dsonar.projectKey=helloworld-project   -Dsonar.host.url=http://13.127.90.158:9000   -Dsonar.login=sqp_5680c8b502207ced5d76d6345d5a37023f506435
+mvn clean package sonar:sonar   -Dsonar.projectKey=helloworld-project   -Dsonar.host.url=http://13.127.90.158:9000   -Dsonar.login=sqp_5680c8b502207ced5d76d6345d5a37023f506435
+git clone https://github.com/ravdy/javaloginapp.git
+git clone https://github.com/prakash96302/project.git
+git remote -v
+ll
+cd  project
+ll
+git clone
+mvn clean package
+cd ..
+ll
+cd hello-world
+ll
+cat pom.xml
+cd ..
+ll
+cd  project
+ll
+vim pom.xml
+ll
+mvn clean package
+cd..
+cd
+ll
+git clone https://github.com/ravdy/DevOps.git
+ll
+cd DevOps
+ll
+cd ..
+ll
+rm -rf DevOps
+rm -rf project
+ll
+rm -rf  trainingwale
+ll
+git status
+git remote -v
+git init 
+ll
+git add .
+git staus
+git status
+git commit -m "cc"
+ll
+git branch -M main
+git remote add origin https://github.com/prakash96302/project2.git
+git push -u origin main
